@@ -1,3 +1,3 @@
-# project_2
+# Character Flutter Project
 
-A new Flutter project.
+A page dedicated to the chracter Sonic the hedgehog with a fully working navigation app bar.
